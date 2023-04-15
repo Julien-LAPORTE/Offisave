@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="sauvegarde.bat">scripts/sauvegarde.bat</file>
+        <file alias="restauration.bat">scripts/restauration.bat</file>
+        <file alias="icon.exe">executables/icon.exe</file>
+        <file alias="config.ini">ini/config.ini</file>
+        <file alias="bureau.ini">ini/bureau.ini</file>
+        <file alias="noUser.ini">ini/noUser.ini</file>
+        <file alias="taches.ini">ini/taches.ini</file>
+        <file alias="user.ini">ini/user.ini</file>
+        <file alias="userLocal.ini">ini/userLocal.ini</file>
+        <file alias="userRoaming.ini">ini/userRoaming.ini</file>
+        <file alias="icon32.exe">executables/icon32.exe</file>
+        <file alias="autoTaches.ini">ini/autoTaches.ini</file>
+        <file alias="autoBureau.ini">ini/autoBureau.ini</file>
+        <file alias="autosave.bat">scripts/autosave.bat</file>
+        <file alias="icone.ico">icone.ico</file>
+        <file alias="croixRouge.png">croix-rouge.png</file>
+        <file alias="valider.png">valider.png</file>
+    </qresource>
+</RCC>
