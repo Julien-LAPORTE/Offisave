@@ -6,7 +6,7 @@
 - Par défaut l'application recherche le répertoire réseau (nas ou serveur smb)
   - [Menu de base]:
 	- Sauvegarder ou restaurer : permet de sauvegarder ou restaurer automatiquement les données du poste
-		**Maintenir CTRL pour obtenir une fénêtre de maintenance en plein écran**
+		**Maintenir CTRL pour obtenir une fenêtre de maintenance en plein écran**
 	- Avancé : Permet d'afficher le menu avancé qui contient plus d'options
 	- Quitter : fermer immediatement l'application.
 	
