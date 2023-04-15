@@ -12,9 +12,9 @@
 	
   - [Menu avancé]:
 	- Sauvegader : Force la sauvegarde des données
-		**Maintenir CTRL pour obtenir une fénêtre de maintenance en plein écran**
+		**Maintenir CTRL pour obtenir une fenêtre de maintenance en plein écran**
 	- Restaurer : Force la restauration des données
-		**Maintenir CTRL pour obtenir une fénêtre de maintenance en plein écran**
+		**Maintenir CTRL pour obtenir une fenêtre de maintenance en plein écran**
 	- Inventaire données : Analyse rapide de la taille des répertoires à sauvegarder
 	- Configuration : Menu de configuration des répertoires à Sauvegarder/Restaurer
 	- Maintenance : Affiche un écran de maintenance en plein écran **Maintenir ALT pour personnaliser le message**
